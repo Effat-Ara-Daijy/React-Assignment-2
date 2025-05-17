@@ -1,0 +1,14 @@
+.team-info-card{
+  text-align: center;
+  margin: 30px 0;
+}
+.team-info-list{
+ background: #e5f0e5;
+  padding: 20px;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  border: 1px solid #ccc;
+}
+.team-info-card h1{
+  font-size: 30px;
+}
